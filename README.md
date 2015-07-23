@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+===============
+
+Hello Earthlings
+
+This is just another repository
+
+Enjoy!
